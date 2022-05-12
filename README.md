@@ -12,3 +12,8 @@ CREATE TABLE IF NOT EXISTS `users` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=52 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+# Baixar repositório
+# Alterar o arquivo Connection.php, linha 13 para a configuração do host, dbname, user e password
+
+
+
